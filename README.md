@@ -1,6 +1,5 @@
 # Population/Public Health Research Report and Presentation
-
-A one-liner or short paragraph about what the project does.
+The Role of Electronic Health Records in Public Health Data Driven Decision-Making
 
 ## 📖 Research Question
 - What is the impact of Meaningful Use program on the adoption of EHRs by health care provided?
