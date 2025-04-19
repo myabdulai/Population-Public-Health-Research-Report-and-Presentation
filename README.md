@@ -20,7 +20,7 @@ Research was an exploratory research. It aimed to explore the role of EHRs in pu
 - Prevalence of HBP in the Michigan state was 34.6% in 2013. Upon increasing the number of federally qualified health centres with appropriate EHRs for treating HBP, training health care providers on how to record information in EHR, the number of the number of clinics reporting controlled hypertension increased significantly, with 63% of patients treated by experienced providers achieving blood pressure control compared to 61% for first-time participants.
 
 ## Personal Contributions
-- Participated in group discussions to come out with scope of the study.
+- Participated in group discussions to come out with the scope of the study.
 - Searched through the internet for artiles related to the study topic.
 
 
